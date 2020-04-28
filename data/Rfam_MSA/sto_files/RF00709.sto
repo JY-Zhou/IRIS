@@ -1,0 +1,44 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF00709
+#=GF ID   mir-455
+#=GF DE   microRNA mir-455
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   52.00
+#=GF TC   53.10
+#=GF NC   50.80
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000129;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   19397817
+#=GF RT   Parallel DNA pyrosequencing unveils new zebrafish microRNAs.
+#=GF RA   Soares AR, Pereira PM, Santos B, Egas C, Gomes AC, Arrais J, Oliveira JL,
+#=GF RA   Moura GR, Santos MA
+#=GF RL   BMC Genomics. 2009;10:195.
+#=GF RN   [2]
+#=GF RM   17105755
+#=GF RT   Discovery and profiling of bovine microRNAs from immune-related and
+#=GF RT   embryonic tissues.
+#=GF RA   Coutinho LL, Matukumalli LK, Sonstegard TS, Van Tassell CP, Gasbarre LC,
+#=GF RA   Capuco AV, Smith TP
+#=GF RL   Physiol Genomics. 2007;29:35-43.
+#=GF WK   Mir-455_microRNA_precursor_family
+#=GF SQ   5
+
+
+CAAK05008291.1/8173-8258   UCCCUGAAGUGAGGGUAUGUGCCCUUGGACUACAUUGUGGAGGCCAGCACCAUGCAGUCCAUGGGCAUAUACACUUACUUCAUGGC
+AL445543.20/79842-79927    UCCCUGGCGUGAGGGUAUGUGCCUUUGGACUACAUCGUGGAAGCCAGCACCAUGCAGUCCAUGGGCAUAUACACUUGCCUCAAGGC
+CR931814.13/136829-136744  UCCCUGGUGUGAGGGUAUGUGCCCUUGGACUACAUCGUGGAAGCCAGCACCAUGCAGUCCAUGGGCAUAUACACUUGCCUCAAGGC
+CAAB02000485.1/24681-24596 UCCCUGAUGUGAGAGUAUGUGCCCUUGGACUACAUCGUGGAAGCCAGCACCAUGCAGUCCAUGGGCAUAUACACUUUCCUCAAGGC
+AFTD01094266.1/62198-62114 UCCCUGGUGUGAGCGUAUGUGCCUUUGGACUACAUCGUGGACGC-AGCACCAUGCAGUCCACGGGCAUAUACACUUGCCUCAAGGU
+#=GC SS_cons               ::::<<<-<--<<-<<<<<<<<<<<<<<<<<-<<<-<<<________>>>->>>->>>>>>>>>>>>>>>>>->>-->->>>::::
+#=GC RF                    UCCCuGguGUGaGgGuauguGCCcguGGaCuACaucGuGGAaGCCAGCaCCauGCaGuCCacgGGCauauaCACuUgCccCaaGGc
+//

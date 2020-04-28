@@ -1,0 +1,47 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF00988
+#=GF ID   mir-657
+#=GF DE   microRNA mir-657
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   80.00
+#=GF TC   94.00
+#=GF NC   49.30
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000498;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   16505370
+#=GF RT   The colorectal microRNAome.
+#=GF RA   Cummins JM, He Y, Leary RJ, Pagliarini R, Diaz LA Jr, Sjoblom T, Barad O,
+#=GF RA   Bentwich Z, Szafranska AE, Labourier E, Raymond CK, Roberts BS, Juhl H,
+#=GF RA   Kinzler KW, Vogelstein B, Velculescu VE
+#=GF RL   Proc Natl Acad Sci U S A. 2006;103:3687-3692.
+#=GF RN   [2]
+#=GF RM   18186931
+#=GF RT   Identification of novel homologous microRNA genes in the rhesus macaque
+#=GF RT   genome.
+#=GF RA   Yue J, Sheng Y, Orwig KE
+#=GF RL   BMC Genomics. 2008;9:8.
+#=GF RN   [3]
+#=GF RM   18760970
+#=GF RT   Computational identification of novel microRNA homologs in the chimpanzee
+#=GF RT   genome.
+#=GF RA   Baev V, Daskalova E, Minkov I
+#=GF RL   Comput Biol Chem. 2009;33:62-70.
+#=GF WK   Mir-657_microRNA_precursor_family
+#=GF SQ   2
+
+
+AANU01217966.1/9444-9541 GUAUAGCAGGGCUGGGAGGAGAGGGUCCUGGAGAAGCGUGGACGGCUCCAGGUGGGUUCUGGCAGGUCCUCACCCUCUCUAGGCCCCAUUCUCAUCUG
+AADB02050593.1/5582-5485 GUGUAGUAGAGCUAGGAGGAGAGGGUCCUGGAGAAGCGUGGACCGGUCCGGGUGGGUUCCGGCAGGUUCUCACCCUCUCUAGGCCCCAUUCUCCUCUG
+#=GC SS_cons             :::::::::::::::::<----<<<-<<<<<<<<------<<<----<<<<_______>>>>--->>>------->>>>>>>>->>>--->:::::::
+#=GC RF                  GUaUAGuAGaGCUaGGAGGAGAGGGUCCugGaGaAGCGUGgaCgGgUCCgGGUGGGUUCcGGCAGGucCUCACCCuCuCuaGGCCCCAUUCUCaUCUG
+//

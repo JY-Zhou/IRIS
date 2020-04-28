@@ -1,0 +1,58 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF00921
+#=GF ID   mir-665
+#=GF DE   microRNA mir-665
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   50.00
+#=GF TC   52.10
+#=GF NC   42.90
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000404;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   16582102
+#=GF RT   The expression profile of microRNAs in mouse embryos.
+#=GF RA   Mineno J, Okamoto S, Ando T, Sato M, Chono H, Izu H, Takayama M, Asada K,
+#=GF RA   Mirochnitchenko O, Inouye M, Kato I
+#=GF RL   Nucleic Acids Res. 2006;34:1765-1771.
+#=GF RN   [2]
+#=GF RM   20215419
+#=GF RT   MicroRNA transcriptome in the newborn mouse ovaries determined by massive
+#=GF RT   parallel sequencing.
+#=GF RA   Ahn HW, Morin RD, Zhao H, Harris RA, Coarfa C, Chen ZJ, Milosavljevic A,
+#=GF RA   Marra MA, Rajkovic A
+#=GF RL   Mol Hum Reprod. 2010;16:463-471.
+#=GF RN   [3]
+#=GF RM   17604727
+#=GF RT   A mammalian microRNA expression atlas based on small RNA library
+#=GF RT   sequencing.
+#=GF RA   Landgraf P, Rusu M, Sheridan R, Sewer A, Iovino N, Aravin A, Pfeffer S,
+#=GF RA   Rice A, Kamphorst AO, Landthaler M, Lin C, Socci ND, Hermida L, Fulci V,
+#=GF RA   Chiaretti S, Foa R, Schliwka J, Fuchs U, Novosel A, Muller RU, Schermer B,
+#=GF RA   Bissels U, Inman J, Phan Q, Chien M, Weir DB, Choksi R, De Vita G,
+#=GF RA   Frezzetti D, Trompeter HI, Hornung V, Teng G, Hartmann G, Palkovits M, Di
+#=GF RA   Lauro R, Wernet P, Macino G, Rogler CE, Nagle JW, Ju J, Papavasiliou FN,
+#=GF RA   Benzing T, Lichter P, Tam W, Brownstein MJ, Bosio A, Borkhardt A, Russo
+#=GF RA   JJ, Sander C, Zavolan M, Tuschl T
+#=GF RL   Cell. 2007;129:1401-1414.
+#=GF WK   MicroRNA
+#=GF SQ   6
+
+
+AAHY01103461.1/3314-3221   AGAACAGGGUCUCCUUGAGGGGCCUCUGCCUCUAUCCAGGAUUAUGUUUUUAUGACCAGGAGGCUGAGGUCCCUUACAGGCGGCCUCUUACUCU
+AADB02016115.1/2057-2147   AGAGGAGGGUCUCCUCGAGGGGUCUCUGCCUCUACCCAGGACU---CUUUCAUGACCAGGAGGCUGAGGCCCCUCACAGGCGGCUUCUUACUCU
+AAYZ01391475.1/1433-1523   GGAGGAGGGUCUCCUUGAGGGGCCUCUGCCUCUCCCCAGGGCU---CCUCUGUGACCAGGAGGCUGAGGCCCCUCACAGGCGGCUUCUCACUAU
+AAPY01359946.1/1294-1384   GGAGGAGGGUCUCCUUGAGGGGUCUCUGCCUCUCCCCAGGACU---CUUCCGUGACCAGGAGGCUGAGGCCCCUCACAGGCGGCUUCUUACUCU
+AAFC03050876.1/48735-48825 GGAGGAGGGUCUCCUUGAGGGGUCUUGGCCUCUGCCCAGGACU---CUUUCAUGACCAGUAGGCCGAGGCCCCUCACAGGCGGCUGCUUACUCU
+AAQQ01350179.1/242-331     AGAGAAGGGUUGCCUUGAGGGGCCGCUGCCUCUAACCAGGACU----UUGCAUGACCAGGAGGCAGAGGCCCCUCAUAGGCGGCCUCUUACUCU
+#=GC SS_cons               :::::::::<<-<<<<<<<<<<<<<<<<<<<<<---<<-<<__...___>>->>---->>>>>>>>>>>>>>>>>>->>>->>:::::::::::
+#=GC RF                    aGAggAGGGucuCCuuGaGGGGcCucgGCCucuacCCaGggcU...cUUccauGACCAggaGGCcgaGgCCCCuCacaGGCggCuuCUUACUcU
+//

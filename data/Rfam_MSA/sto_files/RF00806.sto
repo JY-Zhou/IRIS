@@ -1,0 +1,88 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF00806
+#=GF ID   mir-350
+#=GF DE   microRNA mir-350
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   65.00
+#=GF TC   76.00
+#=GF NC   45.20
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000245;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   15538371
+#=GF RT   A pancreatic islet-specific microRNA regulates insulin secretion.
+#=GF RA   Poy MN, Eliasson L, Krutzfeldt J, Kuwajima S, Ma X, Macdonald PE, Pfeffer
+#=GF RA   S, Tuschl T, Rajewsky N, Rorsman P, Stoffel M
+#=GF RL   Nature. 2004;432:226-230.
+#=GF RN   [2]
+#=GF RM   17604727
+#=GF RT   A mammalian microRNA expression atlas based on small RNA library
+#=GF RT   sequencing.
+#=GF RA   Landgraf P, Rusu M, Sheridan R, Sewer A, Iovino N, Aravin A, Pfeffer S,
+#=GF RA   Rice A, Kamphorst AO, Landthaler M, Lin C, Socci ND, Hermida L, Fulci V,
+#=GF RA   Chiaretti S, Foa R, Schliwka J, Fuchs U, Novosel A, Muller RU, Schermer B,
+#=GF RA   Bissels U, Inman J, Phan Q, Chien M, Weir DB, Choksi R, De Vita G,
+#=GF RA   Frezzetti D, Trompeter HI, Hornung V, Teng G, Hartmann G, Palkovits M, Di
+#=GF RA   Lauro R, Wernet P, Macino G, Rogler CE, Nagle JW, Ju J, Papavasiliou FN,
+#=GF RA   Benzing T, Lichter P, Tam W, Brownstein MJ, Bosio A, Borkhardt A, Russo
+#=GF RA   JJ, Sander C, Zavolan M, Tuschl T
+#=GF RL   Cell. 2007;129:1401-1414.
+#=GF RN   [3]
+#=GF RM   20215419
+#=GF RT   MicroRNA transcriptome in the newborn mouse ovaries determined by massive
+#=GF RT   parallel sequencing.
+#=GF RA   Ahn HW, Morin RD, Zhao H, Harris RA, Coarfa C, Chen ZJ, Milosavljevic A,
+#=GF RA   Marra MA, Rajkovic A
+#=GF RL   Mol Hum Reprod. 2010;16:463-471.
+#=GF RN   [4]
+#=GF RM   20668074
+#=GF RT   Identification and analysis of expression of novel microRNAs of murine
+#=GF RT   gammaherpesvirus 68.
+#=GF RA   Zhu JY, Strehle M, Frohn A, Kremmer E, Hofig KP, Meister G, Adler H
+#=GF RL   J Virol. 2010;84:10266-10275.
+#=GF RN   [5]
+#=GF RM   20413612
+#=GF RT   Mammalian microRNAs: experimental evaluation of novel and previously
+#=GF RT   annotated genes.
+#=GF RA   Chiang HR, Schoenfeld LW, Ruby JG, Auyeung VC, Spies N, Baek D, Johnston
+#=GF RA   WK, Russ C, Luo S, Babiarz JE, Blelloch R, Schroth GP, Nusbaum C, Bartel
+#=GF RA   DP
+#=GF RL   Genes Dev. 2010;24:992-1009.
+#=GF RN   [6]
+#=GF RM   14691248
+#=GF RT   Identification of many microRNAs that copurify with polyribosomes in
+#=GF RT   mammalian neurons.
+#=GF RA   Kim J, Krichevsky A, Grad Y, Hayes GD, Kosik KS, Church GM, Ruvkun G
+#=GF RL   Proc Natl Acad Sci U S A. 2004;101:360-365.
+#=GF RN   [7]
+#=GF RM   20403161
+#=GF RT   Small RNA expression and strain specificity in the rat.
+#=GF RA   Linsen SE, de Wit E, de Bruijn E, Cuppen E
+#=GF RL   BMC Genomics. 2010;11:249.
+#=GF WK   Mir-350_microRNA_precursor_family
+#=GF SQ   11
+
+
+AAWR02039510.1/16310-16408   AAACCCUUUGCUCCUAUAAGAGUAAA-GUGCACGCGCUUUGGGACAGU-GAGGAAGAUGAUGUUCACAAAGCCCAUACACUUUUACUCUUUAGGAGAGCCA
+AANN01799551.1/1515-1613     AAAAACUUUGCUCCUACAAGAGUAAA-GUGCACGUGCUUUGGGACAGU-GAAUAAAAUAAUGUUCACAAAGCCCAUACACUUUUACCCUUUAGGAGAGCCG
+AAGW02026533.1/115483-115385 AAAAUAUUUGCUCCUACAAGAGUAAA-GUGCAUGCGCUUUGGGACAGU-GAGGAAAAUAAUGUUCACAAAGCCCAUACACUUUUACCCUUUGGGAGAGUUG
+AC144905.10/206783-206881    AGAUGCCUUGCUCCUACAAGAGUAAA-GUGCAUGCGCUUUGGGACAGU-GAGGAAAAUAAUGUUCACAAAGCCCAUACACUUUCACCCUUUAGGAGAGUUG
+AAPY01728940.1/2419-2322     AGAUGCCUUGCUCCUACGAGAGUAAACGUGCAC-UGAUUUGGGACAGUGGAAGAGAAUAAUGUUCACAAGGCC-AUACACUUUUACCCUG-AGAAGAGUUG
+AAQQ01687215.1/1109-1011     AAAUAUCUUGCUCCUACAAGAGUAAA-GUGCACGCGCUUUGGGACAGU-GAGGAAAAUAAUGUUCACAAAGCCCAUACACUUUCACCCUUUAGGAGAGUUG
+AC239692.1/34871-34960       AAAAACUUUGCUCCUACAAGAGUAAA-AUGCAGGUGCUUUGCGACAGU-GAGGAAAA---------GAAAGCCCAUACAUUUUAACCCUUUAGGAGAGUUG
+ABBA01109437.1/411-500       AAAAACUUUGCUCCUACAAGAGUAAA-AUGCAGGUGCUUUGCGACAGU-GAGGGAAAGAA---------AGCCCAUACAUUUUAACCCUUUAGGAGAGUUG
+AANU01168227.1/13622-13711   AAAAACUUUGCUCCUACAAGAGUGAA-GUGCAGGGGCUUUGGGAUAGU-GAGGAAAA---------UAAAGCCCAUACACUUUGACCCUUUAGGAGAGUUG
+AAFC03070376.1/47198-47100   AACAACUUUGCUCCUGCAAGAGUGAA-AUGCACGUGCUUUGGGACAGU-GAAGACAAUAAUGUACACAAAGUCCAUACACUUUUACCCAUUAGGAGAGUUG
+AAEX03005247.1/304791-304693 AAAACCUUUGCUCCUACAAGAGUAAA-GUGCACGCGCUUUGGGACAGU-GAAGAAAAUAAUGUUCACAAAGCCCAUACACUUUUACCCUUUAGGAGAGUUG
+#=GC SS_cons                 ::::::::::<<<<<<-<<<-<<<<<.<<<---<-<<<<<<<<<<<__.___________>>>>>->>>>>>->--->>>>>>->>->>>>>>>>>:::::
+#=GC RF                      AAAaacuUUGCuCCuacaaGAGuaaa.guGCAcGuGCuuugGgaCaGU.GAgGAaAAuAAuGucCAcaaaGCCCAUACacuuuuaCcCuuuaGGaGAGuuG
+//

@@ -1,0 +1,34 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF01314
+#=GF ID   mir-1227
+#=GF DE   microRNA mir-1227
+#=GF AU   Wilkinson A
+#=GF SE   miRBase
+#=GF SS   Published; PMID:17964270; Wilkinson A
+#=GF GA   70.00
+#=GF TC   72.90
+#=GF NC   41.60
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000454;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   17964270
+#=GF RT   Mammalian mirtron genes.
+#=GF RA   Berezikov E, Chung WJ, Willis J, Cuppen E, Lai EC
+#=GF RL   Mol Cell. 2007;28:328-336.
+#=GF WK   MicroRNA
+#=GF SQ   3
+
+
+AC143896.2/45997-45910 GUGGGGCCAGGCGGUGGUGGGCACCGCUGGGGUGGGCACAGCAGCCAUGCAGAGCAGGCAGCUGACCCCGUGCCAUCCUCUUCCCCAG
+AC138127.1/8944-8857   GUGGGGCCAGGCGGUGGUGGGCACUGCUGGGGUGGGCACAGCAGCCAUGCAGAGCGGGCAUUUGACCCCGUGCCACCCUUUUCCCCAG
+AC206022.3/51292-51379 GUGGGGCCAGGCGGUGGUGGGCACUGCUGGGGUGGGCACAGCAGCCAUGCAGAGCAGGCAUUUGACCCCGUGCCACCCUUUUCCCCAG
+#=GC SS_cons           :<<<<<---<<-<<<<<<<<<<<<<<<<---<<<<<<______>>>->>>-->>>>>----->>->>>--->>>>>>>>--->>>>>:
+#=GC RF                GuGGGGCCAgGCGguGGcGGGCaCcGCuGGGGcgGGCACAGCAGCCAcgCAGaGCgGGCAuuuGACCCCGUgCCacCCcuUUCCCCaG
+//

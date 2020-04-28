@@ -1,0 +1,48 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF02013
+#=GF ID   mir-1280
+#=GF DE   microRNA mir-1280
+#=GF AU   Boursnell C
+#=GF SE   Predicted; ClustalW2
+#=GF SS   Predicted; RNAalifold
+#=GF GA   60.00
+#=GF TC   87.70
+#=GF NC   49.40
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -T 28.88 -Z 549862.597050 CM SEQDB
+#=GF DR   SO; 0000276; microRNA;
+#=GF DR   MIPF; MIPF0000648;
+#=GF DR   URL; http://www.mirbase.org;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   18760970
+#=GF RT   Computational identification of novel microRNA homologs in the chimpanzee
+#=GF RT   genome
+#=GF RA   Baev V, Daskalova E, Minkov I
+#=GF RL   Comput Biol Chem. 2009;33:62-70.
+#=GF RN   [2]
+#=GF RM   18285502
+#=GF RT   Application of massively parallel sequencing to microRNA profiling and
+#=GF RT   discovery in human embryonic stem cells
+#=GF RA   Morin RD, O'Connor MD, Griffith M, Kuchenbauer F, Delaney A, Prabhu AL,
+#=GF RA   Zhao Y, McDonald H, Zeng T, Hirst M, Eaves CJ, Marra MA
+#=GF RL   Genome Res. 2008;18:610-621.
+#=GF RN   [3]
+#=GF RM   20214803
+#=GF RT   Genome-wide comparative analysis of microRNAs in three non-human primates
+#=GF RA   Brameier M
+#=GF RL   BMC Res Notes. 2010;3:64.
+#=GF WK   MicroRNA
+#=GF SQ   3
+
+
+AF196968.5/58781-58873  -CUGUCCCACCGCUGCCACCCUCCCCUCUGCCUCAGUGUGCCAGGCAUCAGCACUCACUCACAGAGGCAGGCUGGAUGGCGGGUGGGACAACAG
+AL449210.5/98173-98266  UCUGUCCCACCGCUGCCACCCUCCCCUCUGCCUCAGUGUGCCAGGCAUCAGCACUCACUCACAGAGGCAGGCUGGAUGGCGGGUGGGACAACAG
+AC092549.14/72588-72495 UCUGUCCCACCGCUGCCACCCUCCCCUCUGCCUCAGUGUGCCAGGCAUCAGCACUCACUCACAGAGGCAGGCUGGAUGGCGGGUGGGACAACAG
+#=GC SS_cons            ::<<<<<<<<<-<-<<<<---<<<--<<<<<<<<-<<<-<--<<<<____>>->>-->->>>->>>>>>>>-->>>>>>>>>>>>>>>>>::::
+#=GC RF                 ucuGucccaccGcUGccacccuccccccuGccucAGuGUGccaGGcAUcAgCACucACUCaCAgaggCaggcUggauggCgggugggaCaAcAG
+//

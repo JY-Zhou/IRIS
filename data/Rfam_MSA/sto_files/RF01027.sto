@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF01027
+#=GF ID   mir-765
+#=GF DE   microRNA mir-765
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   50.00
+#=GF TC   63.70
+#=GF NC   39.40
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000545;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   16954537
+#=GF RT   Many novel mammalian microRNA candidates identified by extensive cloning
+#=GF RT   and RAKE analysis.
+#=GF RA   Berezikov E, van Tetering G, Verheul M, van de Belt J, van Laake L, Vos J,
+#=GF RA   Verloop R, van de Wetering M, Guryev V, Takada S, van Zonneveld AJ, Mano
+#=GF RA   H, Plasterk R, Cuppen E
+#=GF RL   Genome Res. 2006;16:1289-1298.
+#=GF RN   [2]
+#=GF RM   20214803
+#=GF RT   Genome-wide comparative analysis of microRNAs in three non-human primates.
+#=GF RA   Brameier M
+#=GF RL   BMC Res Notes. 2010;3:64.
+#=GF WK   Mir-765_microRNA_precursor_family
+#=GF SQ   2
+
+
+AADB02000969.1/939661-939774 UUUAGGCGCUGAUGAAAGUGGAGUUCAGUAGACAGCCCUUUUCAAGCCCUACGAGAAACUGGGGUUUCUGGAGGAGAAGGAAGGUGAUGAAGGAUCUGUUCUCGUGAGCCUGAA
+AANU01239435.1/26313-26426   UUUAGGGGCUGAUGAAAGUGGAGUUCAGUAGACAACCCUUUUCAAGCCCUGCAAGAAACUGGGGUUUCUGGAGGAGAGGGAAGGUGCUGAAGGGGCUGCUCUCGUGAGCCUGAA
+#=GC SS_cons                 :::::<<<<<-<<<<-<<--<<-<<<<<<<--<--<<<<<<<<<<<<<<<<________>>>>>>>>----->>>>>>>>-->->>>>>>>--->>-->>->>>>->>>>>:::
+#=GC RF                      UUUAGggGCuGacGaAagUGGaGuuCagcaGACAaCCcucucCaagCCCcgCaAGAAACcgGGGcuuCUGGAGgagagGGAAGGugcuGaaGGauCUGcuCuCguGaGCccGAA
+//

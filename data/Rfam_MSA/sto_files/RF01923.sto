@@ -1,0 +1,51 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF01923
+#=GF ID   mir-711
+#=GF DE   microRNA mir-711
+#=GF AU   Boursnell C
+#=GF SE   Predicted; ClustalW2
+#=GF SS   Predicted; RNAalifold
+#=GF GA   50.00
+#=GF TC   51.50
+#=GF NC   39.30
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   SO; 0000276; microRNA;
+#=GF DR   MIPF; MIPF0000748;
+#=GF DR   URL; http://www.mirbase.org;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   19406225
+#=GF RT   In silico detection and characteristics of novel microRNA genes in the
+#=GF RT   Equus caballus genome using an integrated ab initio and comparative
+#=GF RT   genomic approach
+#=GF RA   Zhou M, Wang Q, Sun J, Li X, Xu L, Yang H, Shi H, Ning S, Chen L, Li Y, He
+#=GF RA   T, Zheng Y
+#=GF RL   Genomics. 2009;94:125-131.
+#=GF RN   [2]
+#=GF RM   16582102
+#=GF RT   The expression profile of microRNAs in mouse embryos
+#=GF RA   Mineno J, Okamoto S, Ando T, Sato M, Chono H, Izu H, Takayama M, Asada K,
+#=GF RA   Mirochnitchenko O, Inouye M, Kato I
+#=GF RL   Nucleic Acids Res. 2006;34:1765-1771.
+#=GF RN   [3]
+#=GF RM   18215311
+#=GF RT   miRNAminer: a tool for homologous microRNA gene search
+#=GF RA   Artzi S, Kiezun A, Shomron N
+#=GF RL   BMC Bioinformatics. 2008;9:39.
+#=GF WK   Mir-711_microRNA_precursor_family
+#=GF SQ   5
+
+
+AC190272.8/53341-53246     ACCAUGAUGAACUGACUUUGAGUCUCUCCUCAGGGUGCUGCAGGCAAAGCUGGGGACCCAGGGAGAGACGUAAGUGAGGGGAGAUGCUGGGACAGA
+L23982.1/20007-20102       ACCAUGAUGAACUGACUUUGAGUCUCUCCUCAGGGUGCUGCAGGCAAAGCUGGGGACCCAGGGAGAGACGUAAGUGAGGGGAGAUGCUGGGACAGA
+AAWR02008514.1/16619-16714 CUGCAGACUCCCUGACUUUAAGUCUCUUUUCAGGGUGCCACAGGCAAAGCUGGGGACCCAGGGAGAGACGUAAGUAAGGGGAGAUGUUAGGGUGGA
+AC005903.5/60778-60683     ACCAUGAUGAACUGACUUUGAGUCUCUCCUCAGGGUGCUGCAGGCAAAGCUGGGGACCCAGGGAGAGACGUAAGUGAGGGGAGAUGCUGGGACAGA
+AABR05157096.1/34747-34842 AUCCCCUGUGCCUAACUUUGAAUCUCUUCGUAGGGUGCUUCAGGGAAAGCUGGGGACCCUGGGAGAGAUGUAAGUCAAGGGGGAUGCCAAGGUGGA
+#=GC SS_cons               :::::::::::<<-<<<<---<<<<<<<<-<-<<<<-<<-<<<______>>>>>->>>>->>>>>>>>>-->>>>->>::::::::::::::::::
+#=GC RF                    aucaugauuaacugaCuuUgAGuCuCuccucAGGGuGCcgCaGGcAAAGCuGgGGaCCCagggaGaGaCGUaaGugagGGGAGAUGcuagGauaGA
+//

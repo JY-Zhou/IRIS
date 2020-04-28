@@ -1,0 +1,56 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF02024
+#=GF ID   mir-1180
+#=GF DE   microRNA mir-1180
+#=GF AU   Boursnell C
+#=GF SE   Predicted; ClustalW2
+#=GF SS   Predicted; RNAalifold
+#=GF GA   70.00
+#=GF TC   74.70
+#=GF NC   64.30
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   SO; 0000276; microRNA;
+#=GF DR   MIPF; MIPF0000789;
+#=GF DR   URL; http://www.mirbase.org;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   19406225
+#=GF RT   In silico detection and characteristics of novel microRNA genes in the
+#=GF RT   Equus caballus genome using an integrated ab initio and comparative
+#=GF RT   genomic approach
+#=GF RA   Zhou M, Wang Q, Sun J, Li X, Xu L, Yang H, Shi H, Ning S, Chen L, Li Y, He
+#=GF RA   T, Zheng Y
+#=GF RL   Genomics. 2009;94:125-131.
+#=GF RN   [2]
+#=GF RM   17922033
+#=GF RT   MicroRNA expression signature of human sarcomas
+#=GF RA   Subramanian S, Lui WO, Lee CH, Espinosa I, Nielsen TO, Heinrich MC,
+#=GF RA   Corless CL, Fire AZ, van de Rijn M
+#=GF RL   Oncogene. 2008;27:2015-2026.
+#=GF RN   [3]
+#=GF RM   20214803
+#=GF RT   Genome-wide comparative analysis of microRNAs in three non-human primates
+#=GF RA   Brameier M
+#=GF RL   BMC Res Notes. 2010;3:64.
+#=GF RN   [4]
+#=GF RM   19508715
+#=GF RT   Identification and analysis of miRNAs in human breast cancer and teratoma
+#=GF RT   samples using deep sequencing
+#=GF RA   Nygaard S, Jacobsen A, Lindow M, Eriksen J, Balslev E, Flyger H, Tolstrup
+#=GF RA   N, Moller S, Krogh A, Litman T
+#=GF RL   BMC Med Genomics. 2009;2:35.
+#=GF WK   MicroRNA
+#=GF SQ   3
+
+
+AL160492.5/61752-61684     GCUGCUGGACCCACCCGGCCGGGAAUAGUGCUCCUGGUUGUUUCCGGCUCGCGUGGGUGUGUCGGCGGC
+AC124066.6/52207-52275     GCUGCUGGACCCACCCGGCCGGGAAUAGUGCUCCUGGUUGUUUCCGGCUCGCGUGGGUGUGUCGGCGGC
+AAWR02013581.1/12615-12683 UCUGCCUGGCCCACCCAGCCGGGAAUAGUGCACGAGUUUGUUUCCGGCUCGAGUGGGUGUGUCGGAGGC
+#=GC SS_cons               <<<<<<<<<<<<<<<-<<<<<<<<<<<<_________>>>>>>>>>>>>->->>>>>>--->>>>>>>>
+#=GC RF                    gCugCcggaCCCACCCgGCCGGgAAuAgUGCuCcuGguUgUUuCCGGCuCGcGUGGGuGUGucgGcgGc
+//

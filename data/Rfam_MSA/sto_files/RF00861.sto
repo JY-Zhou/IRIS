@@ -1,0 +1,55 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF00861
+#=GF ID   mir-488
+#=GF DE   microRNA mir-488
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   68.00
+#=GF TC   77.60
+#=GF NC   48.10
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -E 1000 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000318;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   15965474
+#=GF RT   Identification of hundreds of conserved and nonconserved human microRNAs.
+#=GF RA   Bentwich I, Avniel A, Karov Y, Aharonov R, Gilad S, Barad O, Barzilai A,
+#=GF RA   Einat P, Einav U, Meiri E, Sharon E, Spector Y, Bentwich Z
+#=GF RL   Nat Genet. 2005;37:766-770.
+#=GF RN   [2]
+#=GF RM   17604727
+#=GF RT   A mammalian microRNA expression atlas based on small RNA library
+#=GF RT   sequencing.
+#=GF RA   Landgraf P, Rusu M, Sheridan R, Sewer A, Iovino N, Aravin A, Pfeffer S,
+#=GF RA   Rice A, Kamphorst AO, Landthaler M, Lin C, Socci ND, Hermida L, Fulci V,
+#=GF RA   Chiaretti S, Foa R, Schliwka J, Fuchs U, Novosel A, Muller RU, Schermer B,
+#=GF RA   Bissels U, Inman J, Phan Q, Chien M, Weir DB, Choksi R, De Vita G,
+#=GF RA   Frezzetti D, Trompeter HI, Hornung V, Teng G, Hartmann G, Palkovits M, Di
+#=GF RA   Lauro R, Wernet P, Macino G, Rogler CE, Nagle JW, Ju J, Papavasiliou FN,
+#=GF RA   Benzing T, Lichter P, Tam W, Brownstein MJ, Bosio A, Borkhardt A, Russo
+#=GF RA   JJ, Sander C, Zavolan M, Tuschl T
+#=GF RL   Cell. 2007;129:1401-1414.
+#=GF RN   [3]
+#=GF RM   20403161
+#=GF RT   Small RNA expression and strain specificity in the rat.
+#=GF RA   Linsen SE, de Wit E, de Bruijn E, Cuppen E
+#=GF RL   BMC Genomics. 2010;11:249.
+#=GF WK   Mir-488_microRNA_precursor_family
+#=GF SQ   5
+
+
+AANU01240492.1/126475-126557 GAGAAUCAUCUCUCCCAGAUAAUGGCACUCUCAAACAAGUUUCCAAGUUGUUUGAAAGGCUAUUUCUUGGUCAGAUGACUCUC
+AADB02001007.1/970631-970549 GAGAAUCAUCUCUCCCAGAUAAUGGCACUCUCAAACAAGUUUCCAAAUUGUUUGAAAGGCUAUUUCUUGGUCAGAUGACUCUC
+AAIY01694145.1/4368-4450     GAGAAUCCUCUCUCCCAGAUAAUGACACUCUCAGACAAGAGUCCAAGUUGUUUGAAAGGCUAUUUCUUGGCCAGAAGACUCUC
+AAYZ01007634.1/3646-3565     GAGGAUCAUCUCUCCCAGAUAAUGGCACUCUCAAACGAGUUUCCAG-UUGUUUGAAAGGCUAUUUCUUGGUCAGAAGACUCUC
+AAHX01076190.1/26229-26147   GAGAAUCCUCUCUCCCAGAUAAUGGCACUCUCAAACAAGUUUCUACAUUGUUUGAAAGGCUGUUUCUUGGUCAGAAGACUCUC
+#=GC SS_cons                 <<<<-<<-<<<--<<-<<<-<<<<<<-<<-<<<<<<<<_________>>>>>>>>->>>>>>>>>>>->>-->>>->>->>>>
+#=GC RF                      GaGaAuCauCuCUCCCaGaUaaugGCACuCuCaaaCaaGuuUCcAaauuGuuuGaAaGGCuauuuCuUGGuCaGaaGaCuCuC
+//

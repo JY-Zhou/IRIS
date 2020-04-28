@@ -1,0 +1,48 @@
+# STOCKHOLM 1.0
+
+#=GF AC   RF00986
+#=GF ID   mir-920
+#=GF DE   microRNA mir-920
+#=GF AU   Wilkinson A
+#=GF SE   miRBase; Wilkinson A
+#=GF SS   Predicted; WAR; Wilkinson A
+#=GF GA   40.00
+#=GF TC   47.50
+#=GF NC   38.70
+#=GF TP   Gene; miRNA;
+#=GF BM   cmbuild -F CM SEED
+#=GF CB   cmcalibrate --mpi CM
+#=GF SM   cmsearch --cpu 4 --verbose --nohmmonly -T 23.97 -Z 549862.597050 CM SEQDB
+#=GF DR   MIPF; MIPF0000495;
+#=GF DR   SO; 0001244; pre_miRNA;
+#=GF DR   GO; 0035068; micro-ribonucleoprotein complex;
+#=GF DR   GO; 0035195; gene silencing by miRNA;
+#=GF RN   [1]
+#=GF RM   17573847
+#=GF RT   Analysis of gene expression in normal and neoplastic human testis: new
+#=GF RT   roles of RNA.
+#=GF RA   Novotny GW, Nielsen JE, Sonne SB, Skakkebaek NE, Rajpert-De Meyts E,
+#=GF RA   Leffers H
+#=GF RL   Int J Androl. 2007;30:316-326.
+#=GF RN   [2]
+#=GF RM   18186931
+#=GF RT   Identification of novel homologous microRNA genes in the rhesus macaque
+#=GF RT   genome.
+#=GF RA   Yue J, Sheng Y, Orwig KE
+#=GF RL   BMC Genomics. 2008;9:8.
+#=GF RN   [3]
+#=GF RM   20214803
+#=GF RT   Genome-wide comparative analysis of microRNAs in three non-human primates.
+#=GF RA   Brameier M
+#=GF RL   BMC Res Notes. 2010;3:64.
+#=GF WK   MicroRNA
+#=GF SQ   4
+
+
+AADB02014749.1/234282-234356 GUAGUUGUUCUACAGAAGACCUGGAUGUGUAGGAGCUAAGACACACUCCAGGGGAGCUGUGGAAGCAGUAACACG
+AANU01253677.1/16443-16369   GUAGUUGUUCUGCAGAAGACCUGGAUGUGGAAGAGCUAAGACACACUCCAGGGGAGCUGUAGAAGCGGUAACACG
+AAFC03002330.1/135300-135226 GUAGCUGCUCUUCAGGAGACCUGGGUGUGGAGACACUAAGUCAAACUCCAGGAGACUUGUGGAAGUGGUAACACU
+AANN01623347.1/2384-2310     GUGACUGCUCUAUAGGAAACCUGGUUGUGGAGGAACUGAGUCAAACUCUAGGAGAGAUGUGGAAGUGGUAGAGAC
+#=GC SS_cons                 <<--<<<<<<<<<<<----<<<<<<<<<<____________>>>>->>>>>>---->>>>>>->>>>>-->>:::
+#=GC RF                      GuAGcugcUCuacAgaAGACCUGGaUgUGGAGGAaCUAAGuCAcACuCCAGGaGAgcUgugGAAgcggUAaCAcu
+//
