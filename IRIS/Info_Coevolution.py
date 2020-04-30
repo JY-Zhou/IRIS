@@ -1,6 +1,6 @@
 import numpy as np
 
-from PARSE.Utils import *
+from IRIS.Utils import *
 
 
 class Info_Coevolution:

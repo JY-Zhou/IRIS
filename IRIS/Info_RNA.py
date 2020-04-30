@@ -1,7 +1,7 @@
-from PARSE.Utils import *
-from PARSE.Info_PARIS import *
-from PARSE.Info_icSHAPE import *
-from PARSE.Info_Coevolution import *
+from IRIS.Utils import *
+from IRIS.Info_PARIS import *
+from IRIS.Info_icSHAPE import *
+from IRIS.Info_Coevolution import *
 
 import RNA
 

@@ -11,8 +11,8 @@ import matplotlib as mpl
 
 import RNA
 
-from PARSE.Utils import *
-from PARSE.Info_RNA import *
+from IRIS.Utils import *
+from IRIS.Info_RNA import *
 
     
 class Scoring:

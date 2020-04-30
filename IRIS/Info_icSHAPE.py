@@ -2,7 +2,7 @@ import numpy as np
 from scipy.stats import beta
 import matplotlib.pyplot as plt
 
-from PARSE.Utils import *
+from IRIS.Utils import *
 
 import RNA
 

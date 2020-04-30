@@ -1,4 +1,4 @@
-from PARSE.Info_RNA import *
+from IRIS.Info_RNA import *
 
 import sys
 
